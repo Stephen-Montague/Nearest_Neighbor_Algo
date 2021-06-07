@@ -1,4 +1,4 @@
-# k_nearest_neighbor_algorithm
+# Nearest_Neighbor_Algo
 
 Summary:
 
